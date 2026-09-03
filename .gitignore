@@ -1,0 +1,6 @@
+# Environment & Secret Files
+.env
+*.env
+.venv/
+__pycache__/
+*.parquet

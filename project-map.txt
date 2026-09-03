@@ -1,0 +1,29 @@
+waynetech-tactical-engine/
+├── .github/
+│   └── workflows/
+│       └── ci.yml                     # MLOps: Automated GitHub Actions Pytest Workflow
+├── data/                              # Medallion Data Architecture Pipeline
+│   ├── bronze/                        # Bronze Layer: Raw generated district logs (.csv)
+│   ├── silver/                        # Silver Layer: Schema-validated, cleaned data (.parquet)
+│   └── gold/                          # Gold Layer: Feature store (lags, rolling stats) (.parquet)
+├── notebooks/                         # Dedicated Notebook Explorations & Testing
+│   └── 01_eda_and_hypothesis_testing.ipynb
+├── src/                               # Modular Business & Model Logic
+│   ├── __init__.py
+│   ├── data/
+│   │   ├── __init__.py
+│   │   └── generator.py              # Synthetic Data Generator (GREEN 🟢)
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── elasticity.py             # OLS Demand Elasticity Engine (GREEN 🟢)
+│   │   └── forecasting.py            # ARIMA vs. XGBoost Forecasting (Slice 2)
+│   └── copilot/
+│       ├── __init__.py
+│       └── agent.py                  # Batcomputer LLM Decision Copilot (Slice 3)
+├── tests/                             # Test-Driven Guardrails (Pytest)
+│   ├── test_generator.py             # Data Pipeline Unit Tests (GREEN 🟢)
+│   └── test_elasticity.py            # Elasticity Math Unit Tests (GREEN 🟢)
+├── app.py                             # Executive Streamlit Dashboard
+├── pytest.ini                         # Project root path configuration
+├── ubiquitous_language.md             # Shared Domain Glossary
+└── README.md                          # Production Portfolio Landing Page
