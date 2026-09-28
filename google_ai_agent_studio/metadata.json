@@ -1,0 +1,6 @@
+{
+  "name": "WayneTech Sector Dispatch & Gotham Medical Reallocator",
+  "description": "Autonomous emergency medical supply detector, stockout risk evaluator, and reallocation copilot for Gotham District 1 with interactive Medium data science exhibition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
