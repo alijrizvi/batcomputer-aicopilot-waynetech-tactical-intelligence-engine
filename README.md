@@ -1,6 +1,8 @@
 # 🦇 WayneTech Tactical Decision Engine & Batcomputer Copilot
 
-### Portfolio Project Piece: **medium article link**
+![Uploading GOAT_title.jpeg…]()
+
+### Portfolio Project Piece: **[medium article lin](https://medium.com/ai-in-plain-english/the-batcomputer-copilot-how-i-built-a-waynetech-decision-engine-for-emergency-logistics-d19ba9a58ae2)k**
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
