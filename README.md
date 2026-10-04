@@ -2,7 +2,7 @@
 
 ![Uploading GOAT_title.jpeg…]()
 
-### Portfolio Project Piece: **[medium article lin](https://medium.com/ai-in-plain-english/the-batcomputer-copilot-how-i-built-a-waynetech-decision-engine-for-emergency-logistics-d19ba9a58ae2)k**
+### Portfolio Project Piece: **[https://medium.com/ai-in-plain-english/the-batcomputer-copilot-how-i-built-a-waynetech-decision-engine-for-emergency-logistics-d19ba9a58ae2)]**
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
